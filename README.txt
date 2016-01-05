@@ -1,46 +1,36 @@
-Variabelhantering i Pascal
+# Variabelhantering i Pascal
 
-Specialarbete
-av
+Specialarbete av Marcus Ahnve, N3
 
-Marcus Ahnve, NS
+Variabler är ett välkänt begrepp för alla som har sysslat med programmering. För
+den oinsatte kan nämnas att de används på ungefär samma sätt som variabler i
+matematik, men att de i datorsammanhang även kan fä rullande värden, till
+exempel vid en uppräkning.
 
-Variabler är ett välkänt begrepp för alla som har sysslat med
-programmering. För den oinsatte kan nämnas att de används pä
-ungefär samma sätt som variabler i matematik, men att de i
-
-datorsammanhang även kan fä rullande värden, till exempel vid
-en uppräkning.
-
-I Pascal finns det en mängd olika typer av variabler. Jag har i
-mitt program i stor utsträckning använt indexeradel "Post"—
-variabler. Postvariabler fungerar sä att relaterade variabler
-sorterar under en huvudvariabel, en "post". En post kallad "Bil”
-kan dä till exempel innehälla undervariablerna "Märke", "Färg",
+I Pascal finns det en mängd olika typer av variabler. Jag har i mitt program i
+stor utsträckning använt indexeradel "Post"— variabler. Postvariabler fungerar
+sä att relaterade variabler sorterar under en huvudvariabel, en "post". En post
+kallad "Bil” kan dä till exempel innehälla undervariablerna "Märke", "Färg",
 "Tillverkningsår" och sä vidare.
 
-Programmet jag har gjort är en datoriserad version av det
-populära sällskapsspelet RISK. Han spelar mot datorn och mälet är
-att erövra Europa. Jag har gjort programmet nagorlunda
-användarvänligt, och år sävitt jag vet bugfritt sä länge
-användaren inte matar in nägot helt konstigt.
+Programmet jag har gjort är en datoriserad version av det populära
+sällskapsspelet RISK. Han spelar mot datorn och mälet är att erövra Europa. Jag
+har gjort programmet nagorlunda användarvänligt, och år sävitt jag vet bugfritt
+sä länge användaren inte matar in nägot helt konstigt.
 
-Variabelhanteringen har varit det svära momentet genomgående.
-Jag har använt en avancerad indexering vilket i vissa moment har
-medfört att jag inom en indexering har haft tre andra
+Variabelhanteringen har varit det svära momentet genomgående.  Jag har använt en
+avancerad indexering vilket i vissa moment har medfört att jag inom en
+indexering har haft tre andra
 
-indexeringar. Jag bifogar en utskrift av programmet med
-markeringar av sadana avsnitt.
+indexeringar. Jag bifogar en utskrift av programmet med markeringar av sadana
+avsnitt.
 
-Detta är en grundversion av ett program som kan utvecklas mer.
-Pä grund av tidsbrist har jag avstätt frän att göra sä för att
-kunna presentera ett färdigt program. Utvecklingsvägar skulle
-kunna vara att ha ett "pekar"-verktyg med vilken man väljer
-möjligheter grafiskt och länder pä en världskarta. Detta har jag
-inte gjort av ovan nämnda anledning. Jag hoppas att användaren
-
-finner det intressant och i sadana fall kopierar och sprider det
-vidare.
+Detta är en grundversion av ett program som kan utvecklas mer.  Pä grund av
+tidsbrist har jag avstätt frän att göra sä för att kunna presentera ett färdigt
+program. Utvecklingsvägar skulle kunna vara att ha ett "pekar"-verktyg med
+vilken man väljer möjligheter grafiskt och länder pä en världskarta. Detta har
+jag inte gjort av ovan nämnda anledning. Jag hoppas att användaren finner det
+intressant och i sådana fall kopierar och sprider det vidare.
 
  
 
